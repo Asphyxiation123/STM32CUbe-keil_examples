@@ -1,0 +1,9 @@
+.\lvgl\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.c
+.\lvgl\qrcodegen.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\assert.h
+.\lvgl\qrcodegen.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\limits.h
+.\lvgl\qrcodegen.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\stdlib.h
+.\lvgl\qrcodegen.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\string.h
+.\lvgl\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.h
+.\lvgl\qrcodegen.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\stdbool.h
+.\lvgl\qrcodegen.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\stddef.h
+.\lvgl\qrcodegen.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\stdint.h

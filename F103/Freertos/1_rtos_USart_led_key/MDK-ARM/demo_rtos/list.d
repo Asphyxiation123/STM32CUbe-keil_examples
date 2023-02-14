@@ -1,0 +1,12 @@
+demo_rtos\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+demo_rtos\list.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\stdlib.h
+demo_rtos\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+demo_rtos\list.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\stddef.h
+demo_rtos\list.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\stdint.h
+demo_rtos\list.o: ../Core/Inc/FreeRTOSConfig.h
+demo_rtos\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+demo_rtos\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+demo_rtos\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+demo_rtos\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+demo_rtos\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+demo_rtos\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

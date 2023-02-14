@@ -1,0 +1,17 @@
+.\lvgl\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_bidi.c
+.\lvgl\lv_bidi.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\stddef.h
+.\lvgl\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_bidi.h
+.\lvgl\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+.\lvgl\lv_bidi.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\stdint.h
+.\lvgl\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+.\lvgl\lv_bidi.o: ../Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+.\lvgl\lv_bidi.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\stdbool.h
+.\lvgl\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_txt.h
+.\lvgl\lv_bidi.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\stdarg.h
+.\lvgl\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_area.h
+.\lvgl\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../font/lv_font.h
+.\lvgl\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../font/lv_symbol_def.h
+.\lvgl\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_printf.h
+.\lvgl\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+.\lvgl\lv_bidi.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../misc/lv_mem.h
+.\lvgl\lv_bidi.o: E:\programs_special\Embedded_sys\keil\Corn\ARM\ARMCC\Bin\..\include\string.h
